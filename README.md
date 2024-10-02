@@ -24,22 +24,27 @@ Contribution to Knowledge: Contribute new knowledge or perspectives to the field
   c. What impact can personalized recommendations have on customer engagement?
   
 2. Loyalty Programs & Customer Retention:
+   
   a. What elements contribute to effective loyalty programs for customer engagement?
 
   b. How do different types of rewards influence customer loyalty and spending behaviors?
   
   c. Can loyalty programs significantly impact customer advocacy and retention rates?
 
-4. Optimizing User Experience through Data:
+3. Optimizing User Experience through Data:
+   
   a. What techniques are used to improve user experience in online transactions?
 
   b. What common obstacles might customers face during the checkout process, and how can they be addressed?
   
   c. How can simplified payment options and persuasive messaging enhance user satisfaction?
 
-6. User-Generated Content & Influencer Impact:
+4. User-Generated Content & Influencer Impact:
+   
   a. How do brands utilize user-generated content to build trust and credibility?
+  
   b. What role do influencers, especially micro-influencers, play in consumer decision-making?
+  
   c. How can collaborations with influencers contribute to brand loyalty
 
 For each of the topics to research a company that has successfully solved its challenges with it and provide their challenges, strategies implemented, its positive impact for them.
